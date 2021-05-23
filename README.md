@@ -8,4 +8,4 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 - Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods.
 
-https://www.coursera.org/professional-certificates/ibm-data-science
+[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)	
